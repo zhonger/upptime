@@ -23,19 +23,17 @@
     "icon": "https://favicons.githubusercontent.com/lui.ssie",
     "slug": "cloudflare",
     "status": "down",
-    "uptime": "78.55%",
-    "uptimeDay": "78.55%",
-    "uptimeWeek": "78.55%",
-    "uptimeMonth": "78.55%",
-    "uptimeYear": "78.55%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
-    "dailyMinutesDown": {
-      "2021-05-22": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Github 节点",
@@ -61,19 +59,17 @@
     "icon": "https://favicons.githubusercontent.com/www.u.tsukuba.ac.jp",
     "slug": "",
     "status": "up",
-    "uptime": "75.70%",
-    "uptimeDay": "75.70%",
-    "uptimeWeek": "75.70%",
-    "uptimeMonth": "75.70%",
-    "uptimeYear": "75.70%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3080,
     "timeDay": 3080,
     "timeWeek": 3080,
     "timeMonth": 3080,
     "timeYear": 3080,
-    "dailyMinutesDown": {
-      "2021-05-22": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "腾讯云节点",
@@ -81,19 +77,17 @@
     "icon": "https://favicons.githubusercontent.com/luish.cc",
     "slug": "",
     "status": "up",
-    "uptime": "76.31%",
-    "uptimeDay": "76.31%",
-    "uptimeWeek": "76.31%",
-    "uptimeMonth": "76.31%",
-    "uptimeYear": "76.31%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3080,
     "timeDay": 3080,
     "timeWeek": 3080,
     "timeMonth": 3080,
     "timeYear": 3080,
-    "dailyMinutesDown": {
-      "2021-05-22": 0
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "腾讯云 COS 节点",
@@ -119,18 +113,16 @@
     "icon": "https://favicons.githubusercontent.com/www.lisz.ink",
     "slug": "",
     "status": "up",
-    "uptime": "77.36%",
-    "uptimeDay": "77.36%",
-    "uptimeWeek": "77.36%",
-    "uptimeMonth": "77.36%",
-    "uptimeYear": "77.36%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 3080,
     "timeDay": 3080,
     "timeWeek": 3080,
     "timeMonth": 3080,
     "timeYear": 3080,
-    "dailyMinutesDown": {
-      "2021-05-22": 0
-    }
+    "dailyMinutesDown": {}
   }
 ]
