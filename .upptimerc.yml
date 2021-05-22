@@ -6,7 +6,7 @@ sites:
   - name: Netlify 节点
     url: https://lisz.me
   - name: Cloudflare 节点
-    url: https://lui.ssie
+    url: https://lui.site
   - name: Github 节点
     url: https://blog.lui8.cn
   - name: 筑波大节点
