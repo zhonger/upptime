@@ -9,13 +9,13 @@ sites:
     url: https://lui.site
   - name: Github 节点
     url: https://blog.lui8.cn
-  - name: 筑波大节点
+  - name: 筑波大 Tsukuba 节点
     url: https://www.u.tsukuba.ac.jp/~s2036012/
-  - name: 腾讯云节点
+  - name: 腾讯云 CVM 节点
     url: https://luish.cc
   - name: 腾讯云 COS 节点
     url: https://lisz.ink
-  - name: 阿里云节点
+  - name: 阿里云 ECS 节点
     url: https://www.lisz.ink
 
 status-website:
