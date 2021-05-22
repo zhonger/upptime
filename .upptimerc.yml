@@ -1,23 +1,29 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
+owner: zhonger # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Netlify 节点
+    url: https://lisz.me
+  - name: Cloudflare 节点
+    url: https://lui.ssie
+  - name: Github 节点
+    url: https://blog.lui8.cn
+  - name: 筑波大节点
+    url: https://www.u.tsukuba.ac.jp/~s2036012/
+  - name: 腾讯云节点
+    url: https://luish.cc
+  - name: 腾讯云 COS 节点
+    url: https://lisz.ink
+  - name: 阿里云节点
+    url: https://www.lisz.ink
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
+  cname: status.lisz.me
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://lisz.me/favicon.ico
   name: Upptime
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
