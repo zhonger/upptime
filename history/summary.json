@@ -59,11 +59,11 @@
     "icon": "https://favicons.githubusercontent.com/www.u.tsukuba.ac.jp",
     "slug": "tsukuba",
     "status": "up",
-    "uptime": "99.61%",
+    "uptime": "99.62%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.61%",
-    "uptimeYear": "99.61%",
+    "uptimeMonth": "99.62%",
+    "uptimeYear": "99.62%",
     "time": 1048,
     "timeDay": 958,
     "timeWeek": 965,
@@ -96,9 +96,9 @@
     "url": "https://lisz.ink",
     "icon": "https://favicons.githubusercontent.com/lisz.ink",
     "slug": "cos",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -107,7 +107,9 @@
     "timeWeek": 1535,
     "timeMonth": 2066,
     "timeYear": 2066,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-06-02": 0
+    }
   },
   {
     "name": "阿里云 ECS 节点",
