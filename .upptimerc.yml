@@ -15,8 +15,6 @@ sites:
     url: https://luish.cc
   - name: 腾讯云 COS 节点
     url: https://lisz.ink
-  - name: 阿里云 ECS 节点
-    url: https://www.lisz.ink
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
