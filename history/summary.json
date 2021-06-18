@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1319,
-    "timeDay": 1069,
-    "timeWeek": 1976,
-    "timeMonth": 1319,
-    "timeYear": 1319,
+    "time": 1317,
+    "timeDay": 1107,
+    "timeWeek": 1872,
+    "timeMonth": 1317,
+    "timeYear": 1317,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 995,
-    "timeDay": 501,
-    "timeWeek": 1088,
-    "timeMonth": 995,
-    "timeYear": 995,
+    "time": 997,
+    "timeDay": 833,
+    "timeWeek": 1098,
+    "timeMonth": 997,
+    "timeYear": 997,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.86%",
-    "time": 364,
-    "timeDay": 579,
-    "timeWeek": 281,
-    "timeMonth": 364,
-    "timeYear": 364,
+    "time": 365,
+    "timeDay": 495,
+    "timeWeek": 297,
+    "timeMonth": 365,
+    "timeYear": 365,
     "dailyMinutesDown": {
       "2021-06-08": 52
     }
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.85%",
-    "time": 1049,
-    "timeDay": 922,
-    "timeWeek": 1056,
-    "timeMonth": 1049,
-    "timeYear": 1049,
+    "time": 1048,
+    "timeDay": 925,
+    "timeWeek": 1040,
+    "timeMonth": 1048,
+    "timeYear": 1048,
     "dailyMinutesDown": {
       "2021-05-23": 58
     }
@@ -86,11 +86,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2278,
-    "timeDay": 2012,
-    "timeWeek": 2544,
-    "timeMonth": 2278,
-    "timeYear": 2278,
+    "time": 2273,
+    "timeDay": 1917,
+    "timeWeek": 2454,
+    "timeMonth": 2273,
+    "timeYear": 2273,
     "dailyMinutesDown": {}
   },
   {
@@ -104,38 +104,15 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.51%",
     "uptimeYear": "99.51%",
-    "time": 1897,
-    "timeDay": 2428,
-    "timeWeek": 1517,
-    "timeMonth": 1897,
-    "timeYear": 1897,
+    "time": 1889,
+    "timeDay": 1788,
+    "timeWeek": 1471,
+    "timeMonth": 1889,
+    "timeYear": 1889,
     "dailyMinutesDown": {
       "2021-06-09": 22,
       "2021-06-08": 31,
       "2021-06-02": 134
-    }
-  },
-  {
-    "name": "阿里云 ECS 节点",
-    "url": "https://www.lisz.ink",
-    "icon": "https://favicons.githubusercontent.com/www.lisz.ink",
-    "slug": "ecs",
-    "status": "down",
-    "uptime": "91.16%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "66.59%",
-    "uptimeMonth": "91.16%",
-    "uptimeYear": "91.16%",
-    "time": 1897,
-    "timeDay": 0,
-    "timeWeek": 1994,
-    "timeMonth": 1897,
-    "timeYear": 1897,
-    "dailyMinutesDown": {
-      "2021-06-18": 27,
-      "2021-06-17": 1440,
-      "2021-06-16": 1440,
-      "2021-06-15": 461
     }
   }
 ]
