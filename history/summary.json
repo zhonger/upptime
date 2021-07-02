@@ -80,19 +80,19 @@
     "url": "https://luish.cc",
     "icon": "https://favicons.githubusercontent.com/luish.cc",
     "slug": "cvm",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2441,
-    "timeDay": 4927,
-    "timeWeek": 3086,
-    "timeMonth": 3005,
-    "timeYear": 2441,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.83%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 2435,
+    "timeDay": 3379,
+    "timeWeek": 2929,
+    "timeMonth": 2969,
+    "timeYear": 2435,
     "dailyMinutesDown": {
-      "2021-07-02": 0
+      "2021-07-02": 17
     }
   },
   {
