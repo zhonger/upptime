@@ -115,7 +115,7 @@
     "url": "https://lisz.ink",
     "icon": "https://favicons.githubusercontent.com/lisz.ink",
     "slug": "cos",
-    "status": "up",
+    "status": "down",
     "uptime": "98.08%",
     "uptimeDay": "72.72%",
     "uptimeWeek": "90.83%",
@@ -123,7 +123,7 @@
     "uptimeYear": "98.08%",
     "time": 1947,
     "timeDay": 1521,
-    "timeWeek": 2210,
+    "timeWeek": 2215,
     "timeMonth": 2117,
     "timeYear": 1947,
     "dailyMinutesDown": {
