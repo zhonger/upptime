@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1224,
-    "timeDay": 768,
-    "timeWeek": 605,
-    "timeMonth": 768,
-    "timeYear": 1224,
+    "time": 1221,
+    "timeDay": 685,
+    "timeWeek": 591,
+    "timeMonth": 750,
+    "timeYear": 1221,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 935,
-    "timeDay": 431,
-    "timeWeek": 452,
+    "time": 932,
+    "timeDay": 365,
+    "timeWeek": 448,
     "timeMonth": 507,
-    "timeYear": 935,
+    "timeYear": 932,
     "dailyMinutesDown": {}
   },
   {
@@ -47,9 +47,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 333,
-    "timeDay": 328,
-    "timeWeek": 284,
-    "timeMonth": 293,
+    "timeDay": 340,
+    "timeWeek": 298,
+    "timeMonth": 292,
     "timeYear": 333,
     "dailyMinutesDown": {
       "2021-06-08": 52
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 1062,
-    "timeDay": 1163,
-    "timeWeek": 1027,
-    "timeMonth": 1120,
-    "timeYear": 1062,
+    "time": 1064,
+    "timeDay": 1487,
+    "timeWeek": 1073,
+    "timeMonth": 1133,
+    "timeYear": 1064,
     "dailyMinutesDown": {
       "2021-08-15": 54,
       "2021-05-23": 58
@@ -87,11 +87,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.30%",
-    "time": 2486,
-    "timeDay": 968,
-    "timeWeek": 1800,
-    "timeMonth": 2186,
-    "timeYear": 2486,
+    "time": 2481,
+    "timeDay": 1314,
+    "timeWeek": 1839,
+    "timeMonth": 2093,
+    "timeYear": 2481,
     "dailyMinutesDown": {
       "2021-08-26": 24,
       "2021-08-22": 19,
@@ -115,15 +115,15 @@
     "url": "https://lisz.ink",
     "icon": "https://favicons.githubusercontent.com/lisz.ink",
     "slug": "cos",
-    "status": "up",
-    "uptime": "97.96%",
-    "uptimeDay": "77.84%",
+    "status": "down",
+    "uptime": "97.97%",
+    "uptimeDay": "77.82%",
     "uptimeWeek": "79.84%",
-    "uptimeMonth": "92.05%",
-    "uptimeYear": "97.96%",
+    "uptimeMonth": "92.10%",
+    "uptimeYear": "97.97%",
     "time": 2008,
-    "timeDay": 2504,
-    "timeWeek": 2134,
+    "timeDay": 2581,
+    "timeWeek": 2097,
     "timeMonth": 2112,
     "timeYear": 2008,
     "dailyMinutesDown": {
@@ -139,8 +139,7 @@
       "2021-09-08": 246,
       "2021-09-07": 296,
       "2021-09-06": 140,
-      "2021-09-05": 170,
-      "2021-09-03": 25
+      "2021-09-05": 170
     }
   }
 ]
