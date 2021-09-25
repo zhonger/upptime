@@ -82,11 +82,11 @@
     "icon": "https://favicons.githubusercontent.com/luish.cc",
     "slug": "cvm",
     "status": "up",
-    "uptime": "99.34%",
+    "uptime": "99.35%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
-    "uptimeYear": "99.34%",
+    "uptimeYear": "99.35%",
     "time": 2444,
     "timeDay": 1130,
     "timeWeek": 1109,
@@ -115,14 +115,14 @@
     "url": "https://lisz.ink",
     "icon": "https://favicons.githubusercontent.com/lisz.ink",
     "slug": "cos",
-    "status": "up",
-    "uptime": "98.06%",
-    "uptimeDay": "76.05%",
+    "status": "down",
+    "uptime": "98.08%",
+    "uptimeDay": "78.41%",
     "uptimeWeek": "83.50%",
-    "uptimeMonth": "91.96%",
-    "uptimeYear": "98.06%",
+    "uptimeMonth": "92.04%",
+    "uptimeYear": "98.08%",
     "time": 2161,
-    "timeDay": 3663,
+    "timeDay": 3815,
     "timeWeek": 2819,
     "timeMonth": 2320,
     "timeYear": 2161,
@@ -140,7 +140,7 @@
       "2021-09-15": 281,
       "2021-09-14": 149,
       "2021-09-13": 362,
-      "2021-09-12": 350
+      "2021-09-12": 314
     }
   }
 ]
