@@ -31,7 +31,7 @@
     "time": 850,
     "timeDay": 327,
     "timeWeek": 541,
-    "timeMonth": 523,
+    "timeMonth": 519,
     "timeYear": 850,
     "dailyMinutesDown": {}
   },
@@ -49,7 +49,7 @@
     "time": 328,
     "timeDay": 189,
     "timeWeek": 367,
-    "timeMonth": 299,
+    "timeMonth": 300,
     "timeYear": 328,
     "dailyMinutesDown": {
       "2021-06-08": 52
@@ -69,7 +69,7 @@
     "time": 1060,
     "timeDay": 912,
     "timeWeek": 1153,
-    "timeMonth": 1021,
+    "timeMonth": 1019,
     "timeYear": 1060,
     "dailyMinutesDown": {
       "2021-08-15": 54,
@@ -90,7 +90,7 @@
     "time": 2302,
     "timeDay": 1341,
     "timeWeek": 1200,
-    "timeMonth": 1282,
+    "timeMonth": 1272,
     "timeYear": 2302,
     "dailyMinutesDown": {
       "2021-10-27": 22,
@@ -117,18 +117,18 @@
     "icon": "https://favicons.githubusercontent.com/lisz.ink",
     "slug": "cos",
     "status": "up",
-    "uptime": "98.93%",
-    "uptimeDay": "98.27%",
-    "uptimeWeek": "93.96%",
-    "uptimeMonth": "94.70%",
-    "uptimeYear": "98.93%",
+    "uptime": "98.92%",
+    "uptimeDay": "98.90%",
+    "uptimeWeek": "94.05%",
+    "uptimeMonth": "94.51%",
+    "uptimeYear": "98.92%",
     "time": 2130,
     "timeDay": 1281,
     "timeWeek": 2296,
-    "timeMonth": 2079,
+    "timeMonth": 2083,
     "timeYear": 2130,
     "dailyMinutesDown": {
-      "2021-10-30": 25,
+      "2021-10-30": 16,
       "2021-10-29": 99,
       "2021-10-28": 36,
       "2021-10-26": 286,
@@ -159,7 +159,7 @@
       "2021-09-30": 90,
       "2021-09-29": 18,
       "2021-09-28": 35,
-      "2021-09-27": 25
+      "2021-09-27": 50
     }
   }
 ]
