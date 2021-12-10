@@ -85,12 +85,12 @@
     "slug": "cvm",
     "status": "up",
     "uptime": "99.56%",
-    "uptimeDay": "99.39%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.58%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.56%",
     "time": 2181,
-    "timeDay": 1148,
+    "timeDay": 954,
     "timeWeek": 1288,
     "timeMonth": 1468,
     "timeYear": 2181,
@@ -121,16 +121,16 @@
     "url": "https://lisz.ink",
     "icon": "https://favicons.githubusercontent.com/lisz.ink",
     "slug": "cos",
-    "status": "up",
-    "uptime": "99.02%",
-    "uptimeDay": "93.80%",
-    "uptimeWeek": "95.07%",
-    "uptimeMonth": "95.59%",
-    "uptimeYear": "99.02%",
+    "status": "down",
+    "uptime": "99.03%",
+    "uptimeDay": "95.03%",
+    "uptimeWeek": "95.06%",
+    "uptimeMonth": "95.65%",
+    "uptimeYear": "99.03%",
     "time": 2064,
-    "timeDay": 2396,
+    "timeDay": 1717,
     "timeWeek": 1867,
-    "timeMonth": 1826,
+    "timeMonth": 1821,
     "timeYear": 2064,
     "dailyMinutesDown": {
       "2021-12-10": 33,
@@ -162,7 +162,7 @@
       "2021-11-04": 120,
       "2021-11-03": 187,
       "2021-11-02": 148,
-      "2021-11-01": 85
+      "2021-11-01": 58
     }
   }
 ]
