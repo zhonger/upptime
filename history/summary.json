@@ -121,16 +121,16 @@
     "url": "https://lisz.ink",
     "icon": "https://favicons.githubusercontent.com/lisz.ink",
     "slug": "cos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.25%",
-    "uptimeDay": "89.27%",
+    "uptimeDay": "89.26%",
     "uptimeWeek": "94.93%",
     "uptimeMonth": "95.20%",
     "uptimeYear": "99.25%",
     "time": 2059,
     "timeDay": 3616,
-    "timeWeek": 2332,
-    "timeMonth": 2032,
+    "timeWeek": 2251,
+    "timeMonth": 2036,
     "timeYear": 2059,
     "dailyMinutesDown": {
       "2022-01-10": 89,
@@ -168,7 +168,7 @@
       "2021-12-07": 46,
       "2021-12-06": 109,
       "2021-12-05": 24,
-      "2021-12-04": 82
+      "2021-12-04": 60
     }
   }
 ]
