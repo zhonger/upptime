@@ -26,18 +26,16 @@
     "slug": "cloudflare",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.03%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 780,
     "timeDay": 2633,
     "timeWeek": 973,
     "timeMonth": 653,
     "timeYear": 780,
-    "dailyMinutesDown": {
-      "2022-01-10": 14
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Github 节点",
@@ -123,16 +121,16 @@
     "url": "https://lisz.ink",
     "icon": "https://favicons.githubusercontent.com/lisz.ink",
     "slug": "cos",
-    "status": "up",
-    "uptime": "99.24%",
-    "uptimeDay": "87.07%",
+    "status": "down",
+    "uptime": "99.25%",
+    "uptimeDay": "87.05%",
     "uptimeWeek": "95.00%",
     "uptimeMonth": "95.20%",
-    "uptimeYear": "99.24%",
+    "uptimeYear": "99.25%",
     "time": 2059,
     "timeDay": 3490,
     "timeWeek": 2244,
-    "timeMonth": 2034,
+    "timeMonth": 2035,
     "timeYear": 2059,
     "dailyMinutesDown": {
       "2022-01-10": 121,
@@ -170,7 +168,7 @@
       "2021-12-07": 46,
       "2021-12-06": 109,
       "2021-12-05": 24,
-      "2021-12-04": 60
+      "2021-12-04": 35
     }
   }
 ]
