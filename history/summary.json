@@ -24,10 +24,10 @@
     "url": "https://lui.site",
     "icon": "https://favicons.githubusercontent.com/lui.site",
     "slug": "cloudflare",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 767,
@@ -35,7 +35,9 @@
     "timeWeek": 428,
     "timeMonth": 519,
     "timeYear": 767,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-10": 1
+    }
   },
   {
     "name": "Github 节点",
@@ -129,7 +131,7 @@
     "uptimeYear": "99.24%",
     "time": 2059,
     "timeDay": 3490,
-    "timeWeek": 2225,
+    "timeWeek": 2244,
     "timeMonth": 2034,
     "timeYear": 2059,
     "dailyMinutesDown": {
