@@ -83,9 +83,9 @@
     "url": "https://luish.cc",
     "icon": "https://favicons.githubusercontent.com/luish.cc",
     "slug": "cvm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.64%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.64%",
@@ -95,6 +95,7 @@
     "timeMonth": 1845,
     "timeYear": 2109,
     "dailyMinutesDown": {
+      "2022-01-26": 0,
       "2021-12-09": 26,
       "2021-12-07": 16,
       "2021-11-17": 18,
@@ -123,9 +124,9 @@
     "slug": "cos",
     "status": "up",
     "uptime": "99.17%",
-    "uptimeDay": "95.13%",
-    "uptimeWeek": "94.31%",
-    "uptimeMonth": "93.34%",
+    "uptimeDay": "95.84%",
+    "uptimeWeek": "94.41%",
+    "uptimeMonth": "93.36%",
     "uptimeYear": "99.17%",
     "time": 2017,
     "timeDay": 1356,
@@ -133,7 +134,6 @@
     "timeMonth": 1871,
     "timeYear": 2017,
     "dailyMinutesDown": {
-      "2022-01-26": 10,
       "2022-01-25": 91,
       "2022-01-24": 201,
       "2022-01-23": 16,
@@ -165,7 +165,7 @@
       "2021-12-28": 25,
       "2021-12-27": 55,
       "2021-12-26": 20,
-      "2021-12-25": 45
+      "2021-12-25": 67
     }
   }
 ]
