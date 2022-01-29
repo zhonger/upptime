@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1030,
-    "timeDay": 1269,
-    "timeWeek": 1226,
-    "timeMonth": 1167,
-    "timeYear": 1030,
+    "time": 1036,
+    "timeDay": 2994,
+    "timeWeek": 1512,
+    "timeMonth": 1248,
+    "timeYear": 1036,
     "dailyMinutesDown": {
       "2021-11-16": 34
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 774,
-    "timeDay": 386,
-    "timeWeek": 969,
-    "timeMonth": 726,
-    "timeYear": 774,
+    "time": 773,
+    "timeDay": 399,
+    "timeWeek": 942,
+    "timeMonth": 722,
+    "timeYear": 773,
     "dailyMinutesDown": {}
   },
   {
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 321,
-    "timeDay": 183,
-    "timeWeek": 306,
-    "timeMonth": 318,
+    "timeDay": 399,
+    "timeWeek": 314,
+    "timeMonth": 322,
     "timeYear": 321,
     "dailyMinutesDown": {
       "2021-06-08": 52
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1068,
-    "timeDay": 1161,
-    "timeWeek": 973,
-    "timeMonth": 1127,
+    "timeDay": 1126,
+    "timeWeek": 1010,
+    "timeMonth": 1130,
     "timeYear": 1068,
     "dailyMinutesDown": {
       "2021-08-15": 54,
@@ -89,11 +89,11 @@
     "uptimeWeek": "99.74%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.64%",
-    "time": 2104,
-    "timeDay": 997,
-    "timeWeek": 1708,
-    "timeMonth": 1810,
-    "timeYear": 2104,
+    "time": 2102,
+    "timeDay": 1203,
+    "timeWeek": 1740,
+    "timeMonth": 1737,
+    "timeYear": 2102,
     "dailyMinutesDown": {
       "2022-01-26": 26,
       "2021-12-09": 26,
@@ -124,17 +124,17 @@
     "slug": "cos",
     "status": "up",
     "uptime": "99.19%",
-    "uptimeDay": "96.45%",
-    "uptimeWeek": "94.14%",
-    "uptimeMonth": "93.30%",
+    "uptimeDay": "97.16%",
+    "uptimeWeek": "94.24%",
+    "uptimeMonth": "93.26%",
     "uptimeYear": "99.19%",
     "time": 2015,
-    "timeDay": 2442,
-    "timeWeek": 1659,
-    "timeMonth": 1895,
+    "timeDay": 1993,
+    "timeWeek": 1657,
+    "timeMonth": 1894,
     "timeYear": 2015,
     "dailyMinutesDown": {
-      "2022-01-28": 51,
+      "2022-01-28": 41,
       "2022-01-27": 73,
       "2022-01-26": 93,
       "2022-01-25": 91,
@@ -164,7 +164,7 @@
       "2022-01-01": 67,
       "2021-12-31": 21,
       "2021-12-30": 67,
-      "2021-12-29": 39
+      "2021-12-29": 65
     }
   }
 ]
