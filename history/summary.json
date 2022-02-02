@@ -4,19 +4,19 @@
     "url": "https://lisz.me",
     "icon": "https://favicons.githubusercontent.com/lisz.me",
     "slug": "netlify",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.76%",
+    "uptimeWeek": "99.82%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
-    "time": 1040,
-    "timeDay": 612,
-    "timeWeek": 1624,
-    "timeMonth": 1294,
-    "timeYear": 1040,
+    "time": 1039,
+    "timeDay": 584,
+    "timeWeek": 1471,
+    "timeMonth": 1271,
+    "timeYear": 1039,
     "dailyMinutesDown": {
-      "2022-02-02": 0,
+      "2022-02-02": 18,
       "2021-11-16": 34
     }
   },
@@ -123,12 +123,12 @@
     "url": "https://lisz.ink",
     "icon": "https://favicons.githubusercontent.com/lisz.ink",
     "slug": "cos",
-    "status": "up",
-    "uptime": "99.13%",
-    "uptimeDay": "41.79%",
+    "status": "down",
+    "uptime": "99.15%",
+    "uptimeDay": "43.00%",
     "uptimeWeek": "78.55%",
-    "uptimeMonth": "92.70%",
-    "uptimeYear": "99.13%",
+    "uptimeMonth": "92.81%",
+    "uptimeYear": "99.15%",
     "time": 2049,
     "timeDay": 2968,
     "timeWeek": 2514,
@@ -152,8 +152,7 @@
       "2022-01-19": 177,
       "2022-01-18": 152,
       "2022-01-17": 102,
-      "2022-01-16": 91,
-      "2022-01-15": 5
+      "2022-01-16": 47
     }
   }
 ]
