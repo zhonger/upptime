@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1029,
-    "timeDay": 1019,
-    "timeWeek": 1258,
-    "timeMonth": 974,
+    "timeDay": 1134,
+    "timeWeek": 1337,
+    "timeMonth": 970,
     "timeYear": 1029,
     "dailyMinutesDown": {
       "2022-02-02": 18,
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 741,
-    "timeDay": 355,
-    "timeWeek": 401,
-    "timeMonth": 579,
+    "timeDay": 636,
+    "timeWeek": 437,
+    "timeMonth": 468,
     "timeYear": 741,
     "dailyMinutesDown": {}
   },
@@ -50,9 +50,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 325,
-    "timeDay": 194,
-    "timeWeek": 345,
-    "timeMonth": 359,
+    "timeDay": 392,
+    "timeWeek": 347,
+    "timeMonth": 361,
     "timeYear": 325,
     "dailyMinutesDown": {
       "2021-06-08": 52
@@ -70,9 +70,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1073,
-    "timeDay": 1057,
-    "timeWeek": 1041,
-    "timeMonth": 1133,
+    "timeDay": 1044,
+    "timeWeek": 1078,
+    "timeMonth": 1124,
     "timeYear": 1073,
     "dailyMinutesDown": {
       "2021-08-15": 54,
@@ -91,9 +91,9 @@
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.68%",
     "time": 2068,
-    "timeDay": 1064,
-    "timeWeek": 1246,
-    "timeMonth": 1843,
+    "timeDay": 1843,
+    "timeWeek": 1364,
+    "timeMonth": 1870,
     "timeYear": 2068,
     "dailyMinutesDown": {
       "2022-03-08": 32,
@@ -128,17 +128,17 @@
     "slug": "cos",
     "status": "up",
     "uptime": "99.20%",
-    "uptimeDay": "95.75%",
-    "uptimeWeek": "94.71%",
-    "uptimeMonth": "97.91%",
+    "uptimeDay": "98.21%",
+    "uptimeWeek": "94.81%",
+    "uptimeMonth": "97.93%",
     "uptimeYear": "99.20%",
     "time": 2054,
-    "timeDay": 2554,
-    "timeWeek": 1954,
-    "timeMonth": 1890,
+    "timeDay": 1826,
+    "timeWeek": 1982,
+    "timeMonth": 1899,
     "timeYear": 2054,
     "dailyMinutesDown": {
-      "2022-03-14": 36,
+      "2022-03-14": 26,
       "2022-03-13": 98,
       "2022-03-12": 398,
       "2022-03-07": 43,
@@ -159,7 +159,7 @@
       "2022-02-06": 70,
       "2022-02-05": 55,
       "2022-02-04": 444,
-      "2022-02-03": 360
+      "2022-02-03": 391
     }
   }
 ]
