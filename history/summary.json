@@ -4,9 +4,9 @@
     "url": "https://lisz.me",
     "icon": "https://favicons.githubusercontent.com/lisz.me",
     "slug": "netlify",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -16,6 +16,7 @@
     "timeMonth": 976,
     "timeYear": 1022,
     "dailyMinutesDown": {
+      "2022-04-19": 0,
       "2022-02-02": 18,
       "2021-11-16": 34
     }
@@ -134,12 +135,12 @@
     "uptime": "99.30%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.43%",
-    "uptimeMonth": "98.96%",
+    "uptimeMonth": "99.36%",
     "uptimeYear": "99.30%",
     "time": 2047,
     "timeDay": 1342,
-    "timeWeek": 2442,
-    "timeMonth": 1782,
+    "timeWeek": 2550,
+    "timeMonth": 1728,
     "timeYear": 2047,
     "dailyMinutesDown": {
       "2022-04-17": 58,
