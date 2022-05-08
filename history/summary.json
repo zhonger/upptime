@@ -26,19 +26,19 @@
     "url": "https://lui.site",
     "icon": "https://favicons.githubusercontent.com/lui.site",
     "slug": "cloudflare",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.99%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 713,
-    "timeDay": 382,
-    "timeWeek": 869,
-    "timeMonth": 518,
+    "timeDay": 456,
+    "timeWeek": 839,
+    "timeMonth": 520,
     "timeYear": 713,
     "dailyMinutesDown": {
-      "2022-05-08": 0
+      "2022-05-08": 15
     }
   },
   {
