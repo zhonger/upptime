@@ -12,7 +12,7 @@
     "uptimeYear": "99.98%",
     "time": 1055,
     "timeDay": 2758,
-    "timeWeek": 1387,
+    "timeWeek": 1038,
     "timeMonth": 1411,
     "timeYear": 1055,
     "dailyMinutesDown": {
@@ -88,10 +88,10 @@
     "url": "https://luish.cc",
     "icon": "https://favicons.githubusercontent.com/luish.cc",
     "slug": "cvm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "95.40%",
-    "uptimeWeek": "98.49%",
+    "uptimeDay": "96.86%",
+    "uptimeWeek": "98.48%",
     "uptimeMonth": "99.62%",
     "uptimeYear": "99.69%",
     "time": 2203,
@@ -100,6 +100,7 @@
     "timeMonth": 3304,
     "timeYear": 2203,
     "dailyMinutesDown": {
+      "2022-05-18": 1,
       "2022-05-17": 66,
       "2022-05-15": 54,
       "2022-05-13": 16,
@@ -137,18 +138,19 @@
     "url": "https://lisz.ink",
     "icon": "https://favicons.githubusercontent.com/lisz.ink",
     "slug": "cos",
-    "status": "up",
-    "uptime": "99.35%",
-    "uptimeDay": "97.99%",
+    "status": "down",
+    "uptime": "99.36%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.71%",
     "uptimeMonth": "99.93%",
-    "uptimeYear": "99.35%",
+    "uptimeYear": "99.36%",
     "time": 2052,
-    "timeDay": 1814,
+    "timeDay": 1894,
     "timeWeek": 2666,
     "timeMonth": 2286,
     "timeYear": 2052,
     "dailyMinutesDown": {
+      "2022-05-18": 0,
       "2022-05-17": 29,
       "2022-04-17": 58,
       "2022-04-04": 21,
@@ -179,7 +181,7 @@
       "2022-02-07": 30,
       "2022-02-06": 70,
       "2022-02-05": 55,
-      "2022-02-04": 82
+      "2022-02-04": 36
     }
   }
 ]
