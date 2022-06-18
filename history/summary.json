@@ -37,7 +37,7 @@
     "timeDay": 1466,
     "timeWeek": 849,
     "timeMonth": 831,
-    "timeYear": 656,
+    "timeYear": 655,
     "dailyMinutesDown": {
       "2022-05-27": 46
     }
@@ -92,13 +92,13 @@
     "uptime": "99.67%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.45%",
+    "uptimeMonth": "99.56%",
     "uptimeYear": "99.65%",
     "time": 2309,
     "timeDay": 5432,
     "timeWeek": 4193,
-    "timeMonth": 3782,
-    "timeYear": 2315,
+    "timeMonth": 3751,
+    "timeYear": 2316,
     "dailyMinutesDown": {
       "2022-06-10": 88,
       "2022-06-06": 61,
@@ -141,18 +141,19 @@
     "url": "https://lisz.ink",
     "icon": "https://favicons.githubusercontent.com/lisz.ink",
     "slug": "cos",
-    "status": "up",
-    "uptime": "99.40%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "99.41%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.78%",
-    "uptimeMonth": "99.52%",
+    "uptimeMonth": "99.62%",
     "uptimeYear": "99.36%",
     "time": 2071,
     "timeDay": 1715,
     "timeWeek": 2680,
-    "timeMonth": 2835,
-    "timeYear": 2079,
+    "timeMonth": 2727,
+    "timeYear": 2080,
     "dailyMinutesDown": {
+      "2022-06-18": 0,
       "2022-06-15": 22,
       "2022-06-05": 19,
       "2022-06-04": 20,
@@ -186,8 +187,7 @@
       "2022-02-10": 619,
       "2022-02-09": 337,
       "2022-02-08": 86,
-      "2022-02-07": 30,
-      "2022-02-06": 20
+      "2022-02-07": 30
     }
   }
 ]
