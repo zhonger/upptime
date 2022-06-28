@@ -27,9 +27,9 @@
     "url": "https://lui.site",
     "icon": "https://favicons.githubusercontent.com/lui.site",
     "slug": "cloudflare",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -39,6 +39,7 @@
     "timeMonth": 1019,
     "timeYear": 677,
     "dailyMinutesDown": {
+      "2022-06-28": 0,
       "2022-05-27": 46
     }
   },
@@ -91,12 +92,12 @@
     "slug": "cvm",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "98.00%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.50%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.64%",
     "time": 2343,
-    "timeDay": 5461,
+    "timeDay": 5129,
     "timeWeek": 4141,
     "timeMonth": 3894,
     "timeYear": 2325,
@@ -146,9 +147,9 @@
     "slug": "cos",
     "status": "up",
     "uptime": "99.42%",
-    "uptimeDay": "99.12%",
-    "uptimeWeek": "99.42%",
-    "uptimeMonth": "99.58%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.61%",
     "uptimeYear": "99.36%",
     "time": 2073,
     "timeDay": 1289,
@@ -156,7 +157,6 @@
     "timeMonth": 2710,
     "timeYear": 2085,
     "dailyMinutesDown": {
-      "2022-06-28": 13,
       "2022-06-24": 19,
       "2022-06-23": 27,
       "2022-06-21": 22,
@@ -192,7 +192,7 @@
       "2022-02-11": 422,
       "2022-02-10": 619,
       "2022-02-09": 337,
-      "2022-02-08": 40
+      "2022-02-08": 60
     }
   }
 ]
