@@ -72,9 +72,9 @@
     "slug": "tsukuba",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.44%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.91%",
     "time": 1139,
     "timeDay": 1189,
@@ -82,7 +82,6 @@
     "timeMonth": 1426,
     "timeYear": 1172,
     "dailyMinutesDown": {
-      "2022-08-04": 8,
       "2022-06-19": 125,
       "2022-05-06": 21,
       "2022-03-22": 25,
@@ -99,12 +98,12 @@
     "uptime": "98.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.75%",
-    "uptimeMonth": "89.19%",
+    "uptimeMonth": "89.33%",
     "uptimeYear": "98.93%",
     "time": 2458,
     "timeDay": 2266,
     "timeWeek": 3728,
-    "timeMonth": 3990,
+    "timeMonth": 3999,
     "timeYear": 2473,
     "dailyMinutesDown": {
       "2022-08-01": 25,
@@ -151,9 +150,9 @@
     "url": "https://lisz.ink",
     "icon": "https://favicons.githubusercontent.com/lisz.ink",
     "slug": "cos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.47%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.15%",
     "uptimeMonth": "98.97%",
     "uptimeYear": "99.36%",
@@ -163,6 +162,7 @@
     "timeMonth": 2001,
     "timeYear": 2093,
     "dailyMinutesDown": {
+      "2022-08-04": 0,
       "2022-08-02": 18,
       "2022-08-01": 26,
       "2022-07-30": 41,
@@ -210,7 +210,7 @@
       "2022-02-13": 50,
       "2022-02-12": 5,
       "2022-02-11": 422,
-      "2022-02-10": 531
+      "2022-02-10": 511
     }
   }
 ]
