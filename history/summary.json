@@ -94,15 +94,15 @@
     "icon": "https://favicons.githubusercontent.com/luish.cc",
     "slug": "cvm",
     "status": "up",
-    "uptime": "98.97%",
+    "uptime": "98.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.10%",
+    "uptimeMonth": "99.75%",
     "uptimeYear": "98.93%",
     "time": 2588,
     "timeDay": 6186,
     "timeWeek": 5870,
-    "timeMonth": 4730,
+    "timeMonth": 4733,
     "timeYear": 2594,
     "dailyMinutesDown": {
       "2022-08-17": 24,
@@ -148,18 +148,19 @@
     "url": "https://lisz.ink",
     "icon": "https://favicons.githubusercontent.com/lisz.ink",
     "slug": "cos",
-    "status": "up",
-    "uptime": "99.51%",
-    "uptimeDay": "88.72%",
-    "uptimeWeek": "93.86%",
+    "status": "down",
+    "uptime": "99.52%",
+    "uptimeDay": "95.88%",
+    "uptimeWeek": "94.10%",
     "uptimeMonth": "97.37%",
     "uptimeYear": "99.39%",
     "time": 2083,
-    "timeDay": 2555,
-    "timeWeek": 2547,
+    "timeDay": 2643,
+    "timeWeek": 2561,
     "timeMonth": 2236,
     "timeYear": 2100,
     "dailyMinutesDown": {
+      "2022-08-26": 0,
       "2022-08-25": 161,
       "2022-08-24": 76,
       "2022-08-23": 67,
@@ -215,7 +216,7 @@
       "2022-03-01": 29,
       "2022-02-28": 19,
       "2022-02-26": 38,
-      "2022-02-25": 89
+      "2022-02-25": 61
     }
   }
 ]
