@@ -155,18 +155,19 @@
     "url": "https://lisz.ink",
     "icon": "https://icons.duckduckgo.com/ip3/lisz.ink.ico",
     "slug": "cos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.59%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.49%",
+    "uptimeMonth": "99.56%",
     "uptimeYear": "99.43%",
     "time": 2113,
     "timeDay": 1243,
     "timeWeek": 1935,
-    "timeMonth": 3094,
-    "timeYear": 2126,
+    "timeMonth": 2920,
+    "timeYear": 2127,
     "dailyMinutesDown": {
+      "2022-10-07": 0,
       "2022-10-03": 23,
       "2022-09-11": 49,
       "2022-09-08": 121,
@@ -222,8 +223,7 @@
       "2022-03-20": 172,
       "2022-03-19": 173,
       "2022-03-18": 31,
-      "2022-03-17": 41,
-      "2022-03-16": 28
+      "2022-03-17": 41
     }
   }
 ]
