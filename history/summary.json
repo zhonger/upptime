@@ -96,18 +96,19 @@
     "url": "https://luish.cc",
     "icon": "https://icons.duckduckgo.com/ip3/luish.cc.ico",
     "slug": "cvm",
-    "status": "up",
+    "status": "down",
     "uptime": "99.10%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "98.91%",
-    "time": 3107,
+    "time": 3046,
     "timeDay": 5107,
     "timeWeek": 4770,
     "timeMonth": 5143,
     "timeYear": 3421,
     "dailyMinutesDown": {
+      "2022-11-09": 0,
       "2022-11-03": 23,
       "2022-09-19": 28,
       "2022-09-11": 20,
@@ -157,9 +158,9 @@
     "slug": "cos",
     "status": "up",
     "uptime": "99.58%",
-    "uptimeDay": "97.76%",
-    "uptimeWeek": "98.10%",
-    "uptimeMonth": "95.55%",
+    "uptimeDay": "98.44%",
+    "uptimeWeek": "98.20%",
+    "uptimeMonth": "95.57%",
     "uptimeYear": "99.39%",
     "time": 2138,
     "timeDay": 2742,
@@ -167,7 +168,7 @@
     "timeMonth": 2347,
     "timeYear": 2149,
     "dailyMinutesDown": {
-      "2022-11-09": 33,
+      "2022-11-09": 23,
       "2022-11-07": 28,
       "2022-11-06": 15,
       "2022-11-05": 55,
@@ -211,7 +212,7 @@
       "2022-08-23": 67,
       "2022-08-22": 98,
       "2022-08-20": 111,
-      "2022-08-19": 80
+      "2022-08-19": 104
     }
   }
 ]
