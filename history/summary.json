@@ -14,7 +14,7 @@
     "timeDay": 5251,
     "timeWeek": 2839,
     "timeMonth": 2949,
-    "timeYear": 1888,
+    "timeYear": 1892,
     "dailyMinutesDown": {
       "2022-08-31": 23,
       "2022-07-28": 51,
@@ -105,7 +105,7 @@
     "timeDay": 5360,
     "timeWeek": 4428,
     "timeMonth": 5201,
-    "timeYear": 3596,
+    "timeYear": 3602,
     "dailyMinutesDown": {
       "2022-11-09": 21,
       "2022-11-03": 23,
@@ -156,17 +156,17 @@
     "slug": "cos",
     "status": "up",
     "uptime": "99.60%",
-    "uptimeDay": "89.58%",
-    "uptimeWeek": "96.15%",
-    "uptimeMonth": "96.49%",
-    "uptimeYear": "99.40%",
+    "uptimeDay": "94.44%",
+    "uptimeWeek": "96.27%",
+    "uptimeMonth": "96.52%",
+    "uptimeYear": "99.39%",
     "time": 2177,
     "timeDay": 2867,
     "timeWeek": 2544,
     "timeMonth": 2508,
-    "timeYear": 2199,
+    "timeYear": 2200,
     "dailyMinutesDown": {
-      "2022-11-27": 144,
+      "2022-11-27": 132,
       "2022-11-26": 32,
       "2022-11-25": 34,
       "2022-11-23": 87,
@@ -216,7 +216,8 @@
       "2022-09-06": 42,
       "2022-09-05": 42,
       "2022-09-04": 43,
-      "2022-09-03": 68
+      "2022-09-03": 68,
+      "2022-09-02": 16
     }
   }
 ]
