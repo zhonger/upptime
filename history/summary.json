@@ -6,12 +6,12 @@
     "slug": "netlify",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.90%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 1686,
-    "timeDay": 5207,
+    "timeDay": 4799,
     "timeWeek": 3873,
     "timeMonth": 3002,
     "timeYear": 1981,
@@ -153,14 +153,14 @@
     "url": "https://lisz.ink",
     "icon": "https://icons.duckduckgo.com/ip3/lisz.ink.ico",
     "slug": "cos",
-    "status": "up",
-    "uptime": "99.61%",
-    "uptimeDay": "87.73%",
+    "status": "down",
+    "uptime": "99.62%",
+    "uptimeDay": "90.76%",
     "uptimeWeek": "95.30%",
     "uptimeMonth": "96.86%",
-    "uptimeYear": "99.40%",
+    "uptimeYear": "99.41%",
     "time": 2201,
-    "timeDay": 2070,
+    "timeDay": 2156,
     "timeWeek": 2443,
     "timeMonth": 2468,
     "timeYear": 2222,
@@ -212,7 +212,7 @@
       "2022-10-16": 28,
       "2022-10-15": 71,
       "2022-10-14": 45,
-      "2022-10-13": 58
+      "2022-10-13": 29
     }
   }
 ]
