@@ -1,7 +1,7 @@
 url: https://lisz.me
-status: up
-code: 200
-responseTime: 565
-lastUpdated: 2022-12-16T23:14:40.867Z
+status: down
+code: 500
+responseTime: 5766
+lastUpdated: 2022-12-17T04:57:39.931Z
 startTime: Sat May 22 2021 13:04:27 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
