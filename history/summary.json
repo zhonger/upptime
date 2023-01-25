@@ -159,17 +159,16 @@
     "slug": "cos",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "99.33%",
-    "uptimeWeek": "98.05%",
-    "uptimeMonth": "98.91%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "98.15%",
+    "uptimeMonth": "98.93%",
     "uptimeYear": "99.44%",
     "time": 2269,
     "timeDay": 2241,
     "timeWeek": 2143,
     "timeMonth": 2205,
-    "timeYear": 2320,
+    "timeYear": 2321,
     "dailyMinutesDown": {
-      "2023-01-24": 10,
       "2023-01-23": 39,
       "2023-01-22": 110,
       "2023-01-21": 0,
@@ -225,7 +224,7 @@
       "2022-10-29": 40,
       "2022-10-28": 39,
       "2022-10-27": 115,
-      "2022-10-26": 6
+      "2022-10-26": 25
     }
   }
 ]
