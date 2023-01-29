@@ -158,18 +158,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/lisz.ink.ico",
     "slug": "cos",
     "status": "down",
-    "uptime": "99.69%",
-    "uptimeDay": "95.90%",
-    "uptimeWeek": "96.83%",
-    "uptimeMonth": "98.29%",
-    "uptimeYear": "99.48%",
-    "time": 2283,
-    "timeDay": 2528,
-    "timeWeek": 2284,
-    "timeMonth": 2264,
-    "timeYear": 2341,
+    "uptime": "99.70%",
+    "uptimeDay": "95.24%",
+    "uptimeWeek": "96.73%",
+    "uptimeMonth": "98.27%",
+    "uptimeYear": "99.50%",
+    "time": 2284,
+    "timeDay": 2663,
+    "timeWeek": 2271,
+    "timeMonth": 2263,
+    "timeYear": 2340,
     "dailyMinutesDown": {
-      "2023-01-29": 59,
+      "2023-01-29": 69,
       "2023-01-28": 37,
       "2023-01-27": 141,
       "2023-01-25": 43,
@@ -222,7 +222,7 @@
       "2022-11-05": 55,
       "2022-11-03": 60,
       "2022-11-02": 43,
-      "2022-11-01": 155
+      "2022-11-01": 80
     }
   }
 ]
