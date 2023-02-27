@@ -99,9 +99,9 @@
     "slug": "cvm",
     "status": "down",
     "uptime": "99.24%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.91%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.88%",
     "uptimeYear": "98.91%",
     "time": 3555,
     "timeDay": 2336,
@@ -109,7 +109,7 @@
     "timeMonth": 5547,
     "timeYear": 4432,
     "dailyMinutesDown": {
-      "2023-02-27": 0,
+      "2023-02-27": 12,
       "2023-02-02": 41,
       "2023-01-04": 41,
       "2023-01-01": 21,
@@ -156,12 +156,12 @@
     "url": "https://lisz.ink",
     "icon": "https://icons.duckduckgo.com/ip3/lisz.ink.ico",
     "slug": "cos",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "86.94%",
+    "uptimeDay": "87.73%",
     "uptimeWeek": "95.27%",
     "uptimeMonth": "96.82%",
-    "uptimeYear": "99.49%",
+    "uptimeYear": "99.50%",
     "time": 2305,
     "timeDay": 1920,
     "timeWeek": 2240,
@@ -209,7 +209,7 @@
       "2022-12-08": 173,
       "2022-12-07": 68,
       "2022-12-06": 72,
-      "2022-12-05": 67
+      "2022-12-05": 39
     }
   }
 ]
