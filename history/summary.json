@@ -146,10 +146,10 @@
     "url": "https://lisz.ink",
     "icon": "https://icons.duckduckgo.com/ip3/lisz.ink.ico",
     "slug": "cos",
-    "status": "up",
-    "uptime": "99.69%",
-    "uptimeDay": "91.32%",
-    "uptimeWeek": "88.14%",
+    "status": "down",
+    "uptime": "99.70%",
+    "uptimeDay": "91.30%",
+    "uptimeWeek": "88.13%",
     "uptimeMonth": "94.78%",
     "uptimeYear": "99.39%",
     "time": 2378,
@@ -187,7 +187,7 @@
       "2023-04-07": 54,
       "2023-04-06": 87,
       "2023-04-05": 387,
-      "2023-04-04": 90
+      "2023-04-04": 64
     }
   }
 ]
