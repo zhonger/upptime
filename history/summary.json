@@ -13,8 +13,8 @@
     "time": 2222,
     "timeDay": 1130,
     "timeWeek": 566,
-    "timeMonth": 736,
-    "timeYear": 2516,
+    "timeMonth": 749,
+    "timeYear": 2509,
     "dailyMinutesDown": {
       "2022-12-17": 18,
       "2022-12-08": 16,
@@ -37,14 +37,13 @@
     "time": 418,
     "timeDay": 136,
     "timeWeek": 126,
-    "timeMonth": 152,
-    "timeYear": 378,
+    "timeMonth": 153,
+    "timeYear": 367,
     "dailyMinutesDown": {
       "2022-07-01": 66,
       "2022-06-30": 45,
       "2022-06-29": 22,
-      "2022-06-28": 16,
-      "2022-05-27": 46
+      "2022-06-28": 16
     }
   },
   {
@@ -61,7 +60,7 @@
     "time": 378,
     "timeDay": 340,
     "timeWeek": 351,
-    "timeMonth": 380,
+    "timeMonth": 376,
     "timeYear": 392,
     "dailyMinutesDown": {
       "2022-09-15": 38
@@ -82,7 +81,7 @@
     "timeDay": 1389,
     "timeWeek": 1249,
     "timeMonth": 1309,
-    "timeYear": 1512,
+    "timeYear": 1514,
     "dailyMinutesDown": {
       "2023-01-25": 37,
       "2022-06-19": 125
@@ -102,7 +101,7 @@
     "time": 4377,
     "timeDay": 1692,
     "timeWeek": 1761,
-    "timeMonth": 1767,
+    "timeMonth": 1753,
     "timeYear": 4597,
     "dailyMinutesDown": {
       "2023-04-10": 33,
@@ -147,18 +146,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/lisz.ink.ico",
     "slug": "cos",
     "status": "up",
-    "uptime": "99.71%",
-    "uptimeDay": "94.97%",
-    "uptimeWeek": "94.71%",
-    "uptimeMonth": "94.20%",
-    "uptimeYear": "99.41%",
+    "uptime": "99.70%",
+    "uptimeDay": "95.38%",
+    "uptimeWeek": "95.28%",
+    "uptimeMonth": "94.22%",
+    "uptimeYear": "99.40%",
     "time": 2357,
     "timeDay": 1611,
     "timeWeek": 1804,
     "timeMonth": 2008,
-    "timeYear": 2380,
+    "timeYear": 2381,
     "dailyMinutesDown": {
-      "2023-05-26": 72,
+      "2023-05-26": 66,
       "2023-05-25": 56,
       "2023-05-24": 20,
       "2023-05-23": 77,
@@ -191,7 +190,7 @@
       "2023-04-10": 20,
       "2023-04-07": 54,
       "2023-04-06": 87,
-      "2023-04-05": 69
+      "2023-04-05": 104
     }
   }
 ]
