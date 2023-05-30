@@ -14,7 +14,7 @@
     "timeDay": 399,
     "timeWeek": 1772,
     "timeMonth": 894,
-    "timeYear": 2521,
+    "timeYear": 2526,
     "dailyMinutesDown": {
       "2022-12-17": 18,
       "2022-12-08": 16,
@@ -61,7 +61,7 @@
     "timeDay": 553,
     "timeWeek": 355,
     "timeMonth": 377,
-    "timeYear": 392,
+    "timeYear": 393,
     "dailyMinutesDown": {
       "2022-09-15": 38
     }
@@ -81,7 +81,7 @@
     "timeDay": 1872,
     "timeWeek": 1369,
     "timeMonth": 1316,
-    "timeYear": 1513,
+    "timeYear": 1512,
     "dailyMinutesDown": {
       "2023-01-25": 37,
       "2022-06-19": 125
@@ -102,7 +102,7 @@
     "timeDay": 1741,
     "timeWeek": 1614,
     "timeMonth": 1753,
-    "timeYear": 4572,
+    "timeYear": 4571,
     "dailyMinutesDown": {
       "2023-04-10": 33,
       "2023-03-30": 23,
@@ -145,19 +145,19 @@
     "url": "https://lisz.ink",
     "icon": "https://icons.duckduckgo.com/ip3/lisz.ink.ico",
     "slug": "cos",
-    "status": "down",
+    "status": "up",
     "uptime": "99.71%",
-    "uptimeDay": "96.53%",
-    "uptimeWeek": "96.63%",
-    "uptimeMonth": "94.24%",
+    "uptimeDay": "95.88%",
+    "uptimeWeek": "96.54%",
+    "uptimeMonth": "94.22%",
     "uptimeYear": "99.41%",
-    "time": 2359,
-    "timeDay": 2122,
-    "timeWeek": 1978,
+    "time": 2360,
+    "timeDay": 2126,
+    "timeWeek": 1982,
     "timeMonth": 2007,
-    "timeYear": 2381,
+    "timeYear": 2382,
     "dailyMinutesDown": {
-      "2023-05-30": 50,
+      "2023-05-30": 60,
       "2023-05-29": 37,
       "2023-05-28": 47,
       "2023-05-27": 61,
