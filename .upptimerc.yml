@@ -11,10 +11,10 @@ sites:
     url: https://blog.lui8.cn
   - name: 筑波大 Tsukuba 节点
     url: https://www.u.tsukuba.ac.jp/~s2036012/
-  - name: 腾讯云 CVM 节点
-    url: https://luish.cc
-  - name: 腾讯云 COS 节点
-    url: https://lisz.ink
+  #- name: 腾讯云 CVM 节点
+  #  url: https://luish.cc
+  #- name: 腾讯云 COS 节点
+  #  url: https://lisz.ink
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
