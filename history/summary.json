@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 2129,
-    "timeDay": 473,
-    "timeWeek": 1732,
-    "timeMonth": 870,
-    "timeYear": 2034,
+    "time": 2128,
+    "timeDay": 362,
+    "timeWeek": 1043,
+    "timeMonth": 859,
+    "timeYear": 2023,
     "dailyMinutesDown": {
       "2022-12-17": 18,
       "2022-12-08": 16
@@ -31,10 +31,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 329,
-    "timeDay": 92,
-    "timeWeek": 130,
-    "timeMonth": 130,
+    "time": 328,
+    "timeDay": 96,
+    "timeWeek": 128,
+    "timeMonth": 129,
     "timeYear": 147,
     "dailyMinutesDown": {}
   },
@@ -50,13 +50,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 410,
-    "timeDay": 352,
-    "timeWeek": 453,
-    "timeMonth": 478,
+    "timeDay": 309,
+    "timeWeek": 378,
+    "timeMonth": 471,
     "timeYear": 428,
-    "dailyMinutesDown": {
-      "2022-09-15": 38
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "筑波大 Tsukuba 节点",
@@ -69,11 +67,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1460,
-    "timeDay": 1547,
-    "timeWeek": 1365,
-    "timeMonth": 1357,
-    "timeYear": 1473,
+    "time": 1462,
+    "timeDay": 1953,
+    "timeWeek": 1487,
+    "timeMonth": 1374,
+    "timeYear": 1474,
     "dailyMinutesDown": {
       "2023-01-25": 37
     }
