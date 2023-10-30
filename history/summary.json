@@ -25,18 +25,20 @@
     "url": "https://lui.site",
     "icon": "https://icons.duckduckgo.com/ip3/lui.site.ico",
     "slug": "cloudflare",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 254,
-    "timeDay": 180,
-    "timeWeek": 145,
-    "timeMonth": 130,
+    "time": 251,
+    "timeDay": 137,
+    "timeWeek": 139,
+    "timeMonth": 129,
     "timeYear": 142,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-30": 0
+    }
   },
   {
     "name": "Github 节点",
