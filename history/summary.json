@@ -25,19 +25,19 @@
     "url": "https://lui.site",
     "icon": "https://icons.duckduckgo.com/ip3/lui.site.ico",
     "slug": "cloudflare",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "97.99%",
+    "uptimeWeek": "99.71%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 251,
-    "timeDay": 137,
-    "timeWeek": 139,
-    "timeMonth": 129,
+    "timeDay": 123,
+    "timeWeek": 134,
+    "timeMonth": 128,
     "timeYear": 142,
     "dailyMinutesDown": {
-      "2023-10-30": 0
+      "2023-10-30": 29
     }
   },
   {
