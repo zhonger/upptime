@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 1533,
-    "timeDay": 808,
-    "timeWeek": 1133,
-    "timeMonth": 708,
-    "timeYear": 947,
+    "time": 1534,
+    "timeDay": 870,
+    "timeWeek": 1152,
+    "timeMonth": 727,
+    "timeYear": 949,
     "dailyMinutesDown": {
       "2023-12-06": 66
     }
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 145,
-    "timeDay": 168,
-    "timeWeek": 126,
-    "timeMonth": 126,
+    "timeDay": 125,
+    "timeWeek": 130,
+    "timeMonth": 127,
     "timeYear": 142,
     "dailyMinutesDown": {
       "2023-10-30": 29
@@ -51,10 +51,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 422,
-    "timeDay": 360,
-    "timeWeek": 373,
-    "timeMonth": 367,
-    "timeYear": 422,
+    "timeDay": 575,
+    "timeWeek": 412,
+    "timeMonth": 373,
+    "timeYear": 423,
     "dailyMinutesDown": {}
   },
   {
@@ -64,14 +64,14 @@
     "slug": "tsukuba",
     "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "95.97%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.42%",
     "uptimeMonth": "99.87%",
     "uptimeYear": "99.97%",
     "time": 1438,
-    "timeDay": 1413,
-    "timeWeek": 1502,
-    "timeMonth": 1508,
+    "timeDay": 1276,
+    "timeWeek": 1494,
+    "timeMonth": 1495,
     "timeYear": 1392,
     "dailyMinutesDown": {
       "2024-02-12": 41,
