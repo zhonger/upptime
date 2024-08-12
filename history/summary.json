@@ -63,9 +63,9 @@
     "url": "https://www.u.tsukuba.ac.jp/~s2036012/",
     "icon": "https://icons.duckduckgo.com/ip3/www.u.tsukuba.ac.jp.ico",
     "slug": "tsukuba",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -75,6 +75,7 @@
     "timeMonth": 1626,
     "timeYear": 1469,
     "dailyMinutesDown": {
+      "2024-08-12": 0,
       "2024-02-12": 41,
       "2024-02-11": 17,
       "2023-12-10": 91
