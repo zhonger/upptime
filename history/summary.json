@@ -4,19 +4,19 @@
     "url": "https://lisz.me",
     "icon": "https://icons.duckduckgo.com/ip3/lisz.me.ico",
     "slug": "netlify",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.31%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 696,
-    "timeDay": 4285,
-    "timeWeek": 1046,
-    "timeMonth": 911,
-    "timeYear": 699,
+    "time": 703,
+    "timeDay": 4117,
+    "timeWeek": 1409,
+    "timeMonth": 1016,
+    "timeYear": 708,
     "dailyMinutesDown": {
-      "2025-03-26": 0
+      "2025-03-26": 10
     }
   },
   {
