@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 877,
-    "timeDay": 638,
-    "timeWeek": 712,
-    "timeMonth": 805,
-    "timeYear": 851,
+    "timeDay": 456,
+    "timeWeek": 682,
+    "timeMonth": 790,
+    "timeYear": 850,
     "dailyMinutesDown": {
       "2025-10-20": 43,
       "2025-11-05": 23,
@@ -33,10 +33,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 188,
-    "timeDay": 341,
-    "timeWeek": 182,
-    "timeMonth": 201,
+    "time": 187,
+    "timeDay": 113,
+    "timeWeek": 178,
+    "timeMonth": 198,
     "timeYear": 179,
     "dailyMinutesDown": {
       "2025-11-18": 115,
@@ -56,9 +56,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 424,
-    "timeDay": 375,
-    "timeWeek": 345,
-    "timeMonth": 375,
+    "timeDay": 345,
+    "timeWeek": 354,
+    "timeMonth": 373,
     "timeYear": 414,
     "dailyMinutesDown": {
       "2025-12-24": 36
@@ -70,18 +70,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.u.tsukuba.ac.jp.ico",
     "slug": "tsukuba",
     "status": "down",
-    "uptime": "81.29%",
+    "uptime": "81.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
     "time": 1310,
-    "timeDay": 799,
-    "timeWeek": 1040,
-    "timeMonth": 1026,
+    "timeDay": 1358,
+    "timeWeek": 1082,
+    "timeMonth": 1039,
     "timeYear": 1259,
     "dailyMinutesDown": {
-      "2026-10-01": 210,
+      "2026-10-02": 210,
+      "2026-10-01": 1440,
       "2026-09-30": 1440,
       "2026-09-29": 1440,
       "2026-09-28": 1440,
@@ -444,8 +445,7 @@
       "2025-10-06": 1440,
       "2025-10-05": 1440,
       "2025-10-04": 1440,
-      "2025-10-03": 1440,
-      "2025-10-02": 1440
+      "2025-10-03": 1440
     }
   }
 ]
